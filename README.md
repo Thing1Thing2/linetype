@@ -1,4 +1,4 @@
-#LineType
+# LineType
 
 This project is built on top of React JS.
 
